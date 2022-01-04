@@ -10,3 +10,8 @@ I'm currently working on becoming capable of building websites rapidly. Primaril
 
 I'm pursuing a BSc. in Mathematics from [Singhania University](https://singhaniauniversity.co.in/). I take my studies seriously and see it in line with what I want to do in the world.
 
+If you'd like to contact me, my email is `komefumi@protonmail.ch`
+
+If you'd like to quickly inform/notify me of any matter, you can use this [web form](https://arjun-needs-to-see-this.surge.sh/)
+
+On twitter I'm [@ThirdWorldCoder](https://twitter.com/ThirdWorldCoder)
