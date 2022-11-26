@@ -6,7 +6,7 @@ I'm a self taught developer. After going through a period of stagnation of rough
 
 Besides this, I have a deep interest in language, and culture - Arab and Persian influenced ones in particular.
 
-If you'd like to contact me, my email is `komefumi@protonmail.ch`
+Feel free to reach me by email, it will be in my profile outside this bio. To the left, if you are on desktop
 
 This is all for now. This will be updated with more details in future.
 
