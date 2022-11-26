@@ -1,17 +1,13 @@
 # Welcome
 
-My name in real life is Arjun.
+My legal name is 'Arjun' but my name is Hafiz...
 
-I'm someone who is working towards becoming an application developer agnostic of the platform. I've a desire to someday engineer solutions that draw heavily upon expertise in Mathematics and the classical Sciences aside from Computer Science.
+I'm a self taught developer. After going through a period of stagnation of roughly three years, I'm following my passions. Along with a revitalized interest in programming, computer science, and even mathematics, I'm also interested in the conventional sciences. My path to it will need to be written out by me.
 
-I'm a self taught programmer - most of my experience has been on the front-end with React. JavaScript is the language I have most comfort in. I've worked with Node, Angular, Ionic, and also, non-professional with Svelte and Vue.
-
-I'm currently working on becoming capable of building websites rapidly. Primarily intending to do front-end freelance work, as soon as possible. I'm also learning the Go programming language, sparing time where possible.
-
-I'm pursuing a BSc. in Mathematics from [Singhania University](https://singhaniauniversity.co.in/). I take my studies seriously and see it in line with what I want to do in the world.
+Besides this, I have a deep interest in language, and culture - Arab and Persian influenced ones in particular.
 
 If you'd like to contact me, my email is `komefumi@protonmail.ch`
 
-If you'd like to quickly inform/notify me of any matter, you can use this [web form](https://arjun-needs-to-see-this.surge.sh/)
+This is all for now. This will be updated with more details in future.
 
-On twitter I'm [@ThirdWorldCoder](https://twitter.com/ThirdWorldCoder)
+"**Khuda Hafiz**"
