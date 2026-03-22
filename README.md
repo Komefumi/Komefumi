@@ -1,5 +1,7 @@
-# Welcome
+# A Rebranding Imminent
 
-I'm Kome Fumi. I make code that is meaningful to me
+As you can see from my profile, there's apparently a stagnancy as a person.
 
-Thant's all for now, have a good day
+Much will be added soon. With a rapid change, that seemingly comes out of nowhere.
+
+But for now, to everyone: "خوش آمدید" (Welcome)
